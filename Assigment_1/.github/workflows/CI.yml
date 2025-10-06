@@ -6,11 +6,6 @@ on:
       - '*'
     paths:
       - 'Assigment-1/**'
-  pull_request:
-    branches:
-      - master
-    paths:
-      - 'Assigment-1/**'
 
 jobs:
   build:
