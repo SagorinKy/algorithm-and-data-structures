@@ -8,7 +8,7 @@ on:
       - 'Assigment-1/**'
   pull_request:
     branches:
-      - main
+      - master
     paths:
       - 'Assigment-1/**'
 
