@@ -2,10 +2,9 @@ name: CI Pipeline
 
 on:
   push:
-    branches:
-      - '*'
+    branches: [assigment1]
     paths:
-      - 'Assigment-1/**'
+      - 'Assigment_1/**'
 
 jobs:
   build:
